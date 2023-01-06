@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## api run
+```
+node index.js
+```
 
 ### Compiles and hot-reloads for development
 ```
